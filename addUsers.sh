@@ -1,3 +1,5 @@
+# Exercice 2 - Script de création d'utilisateurs en bash
+
 #!/bin/bash
 
 # Script pour créer un ou plusieurs utilisateurs.
