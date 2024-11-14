@@ -9,7 +9,10 @@
 6. Je n'arrive **pas** à reproduire l'utilisation de la commande `jobs`, j'ai regardé des tutos mais je ne pige pas le fonctionnement.  
    (Je vois la commande `fg % 1` mais je comprend pas le fonctionnement de `jobs`.
 7. - Couche 2 du modèle OSI : Couche liaison qui adresse localement les interfaces, méthode MAC.
+     - Carte réseaux
+     - Switch
    - Couche 3 du modèle OSI : Couche réseau qui assure le routage des paquets entre les noeuds.
+     - Routeur
 8. | Bash | PowerShell |
    |:----:|:----:|
    | cd | Set-Location |
